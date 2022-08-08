@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StoryAPP</string>
+    <string name="add_story">Add Story</string>
+    <string name="camera_x">Camera X</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="googlemap" />
+    <string name="logout" />
+    <string name="title_activity_maps" />
+    <string name="list" />
+    <string name="normal_type">Custom Style</string>
+    <string name="satellite_type">Satellite Style</string>
+    <string name="terrain_type">Terrain Style</string>
+    <string name="hybrid_type">Hybrid Style</string>
+    <string name="retry">Retry</string>
+    <string name="addStory">AddStory</string>
+    <string name="detailStory">Detail Story</string>
+    <string name="story_title">Story</string>
+    <string name="noAddress">No address found!</string>
+</resources>
